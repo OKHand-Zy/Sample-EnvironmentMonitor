@@ -8,3 +8,4 @@ Use Docker + Telegraf + Prometheus + Grafana </br>
 4. 連結Prometheus database
 5. 匯入 Dashbar 
 6. 等待大約1分鐘刷新即可看到數據
+<img width="1440" alt="截圖 2022-11-21 10 26 50" src="https://user-images.githubusercontent.com/109845859/215792069-a6eaef91-4a01-4932-8b90-2d7d683fedaf.png">
